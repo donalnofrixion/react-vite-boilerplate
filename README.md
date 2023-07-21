@@ -1,2 +1,1 @@
-# react-vite-boilerplate
-Boilerplate React app with Vite
+# React with vite boilerplate
